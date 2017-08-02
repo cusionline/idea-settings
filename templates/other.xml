@@ -1,0 +1,13 @@
+<templateSet group="other">
+  <template name="currDate" value="$date$" description="Current date" toReformat="false" toShortenFQNames="true">
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="GROOVY" value="true" />
+      <option name="HTML" value="true" />
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JSON" value="true" />
+      <option name="JSP" value="true" />
+    </context>
+  </template>
+</templateSet>

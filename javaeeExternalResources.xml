@@ -1,0 +1,6 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <ignored-resource url="http://schema.org/Offer" />
+    <ignored-resource url="http://schema.org/Product" />
+  </component>
+</application>

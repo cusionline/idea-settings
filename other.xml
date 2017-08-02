@@ -1,0 +1,29 @@
+<application>
+  <component name="CodeStyleSchemesUIConfiguration">
+    <option name="RECENT_IMPORT_FILE_LOCATION" value="file:$USER_HOME$/Desktop/ANDREA/openmind-fabri-codestyle.xml" />
+  </component>
+  <component name="CvsApplicationLevelConfiguration">
+    <option name="PATH_TO_PASSWORD_FILE" value="$userdir/.cvspass" />
+  </component>
+  <component name="GlobalAntConfiguration">
+    <registeredAnts>
+      <ant>
+        <classpath>
+          <classpathItem dir="file://$USER_HOME$/projects/ecommerce-app/hybris/bin/platform/apache-ant-1.9.1/lib" />
+        </classpath>
+        <homeDir value="$USER_HOME$/projects/ecommerce-app/hybris/bin/platform/apache-ant-1.9.1" />
+        <name value="Apache Ant version 1.9.1" />
+        <version value="1.9.1" />
+      </ant>
+    </registeredAnts>
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v7.10.0/bin/node">
+      <version-cache version="7.10.0" last-modified="1493776602000" />
+      <npm-package value="$USER_HOME$/.nvm/versions/node/v7.10.0/lib/node_modules/npm" />
+    </local-interpreter>
+  </component>
+  <component name="RefactoringSettings">
+    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
+  </component>
+</application>

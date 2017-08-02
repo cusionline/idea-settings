@@ -1,0 +1,92 @@
+<keymap version="1" name="Mac OS X 10.5+ - Andrea" parent="Mac OS X 10.5+">
+  <action id="CollapseAll">
+    <keyboard-shortcut first-keystroke="meta subtract" />
+  </action>
+  <action id="CollapseRegion">
+    <keyboard-shortcut first-keystroke="meta subtract" />
+  </action>
+  <action id="CollapseRegionRecursively">
+    <keyboard-shortcut first-keystroke="meta alt subtract" />
+  </action>
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="meta alt slash" />
+    <keyboard-shortcut first-keystroke="meta alt divide" />
+    <keyboard-shortcut first-keystroke="shift ctrl slash" />
+    <keyboard-shortcut first-keystroke="shift ctrl divide" />
+    <keyboard-shortcut first-keystroke="shift meta slash" />
+    <keyboard-shortcut first-keystroke="shift meta divide" />
+    <keyboard-shortcut first-keystroke="shift meta divide" />
+    <keyboard-shortcut first-keystroke="meta alt minus" />
+  </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="meta slash" />
+    <keyboard-shortcut first-keystroke="meta divide" />
+    <keyboard-shortcut first-keystroke="meta minus" />
+  </action>
+  <action id="EditorNextWordInDifferentHumpsMode">
+    <keyboard-shortcut first-keystroke="ctrl meta alt right" />
+  </action>
+  <action id="EditorNextWordInDifferentHumpsModeWithSelection">
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt right" />
+  </action>
+  <action id="EditorPreviousWordInDifferentHumpsMode">
+    <keyboard-shortcut first-keystroke="ctrl meta alt left" />
+  </action>
+  <action id="EditorPreviousWordInDifferentHumpsModeWithSelection">
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt left" />
+  </action>
+  <action id="EditorScrollDownAndMove">
+    <keyboard-shortcut first-keystroke="shift meta alt down" />
+  </action>
+  <action id="EditorScrollUpAndMove">
+    <keyboard-shortcut first-keystroke="shift meta alt up" />
+  </action>
+  <action id="EditorSelectLine">
+    <keyboard-shortcut first-keystroke="shift ctrl a" />
+  </action>
+  <action id="HippieBackwardCompletion">
+    <keyboard-shortcut first-keystroke="shift alt back_quote" />
+    <keyboard-shortcut first-keystroke="shift alt less" />
+  </action>
+  <action id="HippieCompletion">
+    <keyboard-shortcut first-keystroke="alt back_quote" />
+    <keyboard-shortcut first-keystroke="alt less" />
+  </action>
+  <action id="IncrementalSearch">
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
+  <action id="LocalHistory.ShowHistory">
+    <keyboard-shortcut first-keystroke="ctrl l" />
+  </action>
+  <action id="MethodDown">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
+  <action id="MethodUp">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+  <action id="ShowProjectStructureSettings">
+    <keyboard-shortcut first-keystroke="meta semicolon" />
+    <keyboard-shortcut first-keystroke="meta o_with_grave" />
+  </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="ctrl alt enter" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+  <action id="Vcs.Show.Local.Changes">
+    <keyboard-shortcut first-keystroke="f16" second-keystroke="1" />
+  </action>
+  <action id="Vcs.Show.Log">
+    <keyboard-shortcut first-keystroke="f16" second-keystroke="2" />
+  </action>
+</keymap>

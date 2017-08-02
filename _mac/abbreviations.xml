@@ -1,0 +1,41 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="HippieCompletion" />
+      <action id="RebuildGradleProject" />
+      <action id="ConsoleView.ClearAll">
+        <abbreviation name="CL" />
+      </action>
+      <action id="CloseProject">
+        <abbreviation name="CP" />
+      </action>
+      <action id="ManageRecentProjects">
+        <abbreviation name="MP" />
+      </action>
+      <action id="DisableInspection">
+        <abbreviation name="DI" />
+      </action>
+      <action id="CloseAllEditorsButActive">
+        <abbreviation name="CO" />
+      </action>
+      <action id="XDebugger.MuteBreakpoints">
+        <abbreviation name="MB" />
+      </action>
+      <action id="ToggleDistractionFreeMode">
+        <abbreviation name="DF" />
+      </action>
+      <action id="Annotate">
+        <abbreviation name="AN" />
+      </action>
+      <action id="Git.ResolveConflicts">
+        <abbreviation name="RC" />
+      </action>
+      <action id="CompileProject">
+        <abbreviation name="RP" />
+      </action>
+      <action id="CloseAllEditors">
+        <abbreviation name="CA" />
+      </action>
+    </abbreviations>
+  </component>
+</application>

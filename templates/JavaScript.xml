@@ -1,0 +1,122 @@
+<templateSet group="JavaScript">
+  <template name="dol" value="$($THIS$)" description="Element selection (dollar + brackets)" toReformat="false" toShortenFQNames="true">
+    <variable name="THIS" expression="jsSuggestVariableName()" defaultValue="this" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="for" value="for (var $INDEX$ = 0, len = $ARRAY$.length; $INDEX$ &lt; len; $INDEX$++) {&#10;    var $VAR$ = $ARRAY$[$INDEX$];&#10;    $END$&#10;}" description="for loop" toReformat="false" toShortenFQNames="true">
+    <variable name="INDEX" expression="jsSuggestIndexName()" defaultValue="i" alwaysStopAt="true" />
+    <variable name="ARRAY" expression="jsArrayVariable()" defaultValue="array" alwaysStopAt="true" />
+    <variable name="VAR" expression="decapitalize(jsArrayVariable())" defaultValue="a" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="rfor" value="for (var $INDEX$ = $ARRAY$.length - 1; $INDEX$ &gt;= 0; $INDEX$--) {&#10;    var $VAR$ = $ARRAY$[$INDEX$];&#10;    $END$&#10;}" description="reverse for loop" toReformat="false" toShortenFQNames="true">
+    <variable name="INDEX" expression="jsSuggetedIndexName()" defaultValue="i" alwaysStopAt="true" />
+    <variable name="ARRAY" expression="jsVariableArray()" defaultValue="array" alwaysStopAt="true" />
+    <variable name="VAR" expression="decapitalize(jsVariableArray())" defaultValue="a" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="ifel" value="if ($COND$) {&#10;    $END$&#10;}&#10;else {&#10;    &#10;}" description="if else" toReformat="false" toShortenFQNames="true">
+    <variable name="COND" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="if" value="if ($COND$) {&#10;    $END$&#10;}" description="if" toReformat="false" toShortenFQNames="true">
+    <variable name="COND" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="ter" value="$COND$ ? $EXPR$ : $END$;" description="ternary operator" toReformat="false" toShortenFQNames="true">
+    <variable name="COND" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="EXPR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="ctor" value="var $CLASS$ = function($PARAM$) {&#10;    $END$&#10;};" description="constructor" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASS" expression="" defaultValue="Class" alwaysStopAt="true" />
+    <variable name="PARAM" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="m" value="$CLASS$.prototype.$FN$ = function($PARAMS$) {&#10;    $END$&#10;};" description="method" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASS" expression="jsQualifiedClassName()" defaultValue="Class" alwaysStopAt="true" />
+    <variable name="FN" expression="jsMethodName()" defaultValue="fn" alwaysStopAt="true" />
+    <variable name="PARAMS" expression="" defaultValue="params" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="t." value="this.$PROP$;&#10;$END$" description="this dot property" toReformat="false" toShortenFQNames="true">
+    <variable name="PROP" expression="completeSmart()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="o" value="{&#10;    p$END$&#10;};" description="literal object" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="p" value="$PROP$: $VAL$,&#10;$END$" description="literal property" toReformat="false" toShortenFQNames="true">
+    <variable name="PROP" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAL" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="so" value="{ sp$END$ };" description="same line literal object" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="sp" value="$PROP$: $VAL$, $END$" description="same line literal property" toReformat="false" toShortenFQNames="true">
+    <variable name="PROP" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAL" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="clog" value="console.log($END$);" description="console log" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="cerr" value="console.error($END$);" description="console error" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="f" value="function $FN$($PARAMS$) {&#10;    $END$&#10;}" description="function" toReformat="false" toShortenFQNames="true">
+    <variable name="FN" expression="jsMethodName()" defaultValue="fn" alwaysStopAt="true" />
+    <variable name="PARAMS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="v" value="var $PROP$ = $VAL$;$END$" description="variable definition" toReformat="false" toShortenFQNames="true">
+    <variable name="PROP" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAL" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="t" value="this$END$" description="this" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="dolt" value="$(this).$END$" description="Element selection (dollar + brackets + inner this)" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>

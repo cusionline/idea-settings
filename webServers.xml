@@ -1,0 +1,70 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ce90bd29-c1c7-4cdd-ab03-542fbe965bfb" name="pggombe01 - public1" url="http://pggombe01">
+        <fileTransfer host="pggombe01" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/data/webapps" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="3c437725-caca-4892-80bb-14f30d653d57" name="pggombe01 - public2" url="http://pggombe01">
+        <fileTransfer host="pggombe01" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/data/webapps" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="025f1137-8939-44da-9ceb-d732c615d0d1" name="pggombe02 - public1" url="http://pggombe02">
+        <fileTransfer host="pggombe02" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/data/webapps" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="0ff168e9-942a-40db-bd7e-1b74e2315146" name="pggombe02 - public2" url="http://pggombe02">
+        <fileTransfer host="pggombe02" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/data/webapps" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="0323d7b9-ed37-4720-8b46-f76e4054097d" name="pggombe01 - author-piaggio" url="http://pggombe01">
+        <fileTransfer host="pggombe01" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/data/webapps" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="14dd052d-5d82-4134-90f0-9fd238f6608d" name="pggombe01 - mgnl5-author" url="http://pggombe01">
+        <fileTransfer host="pggombe01" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/data/webapps" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="19b0493c-6d66-4689-bf85-7fff840dacec" name="pggombe01 - mgnl5-public" url="http://pggombe01">
+        <fileTransfer host="pggombe01" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/data/webapps" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="70e08fad-5a37-4dd8-a01f-aa29bd8cb330" name="pggombe02 - mgnl5-public" url="http://pggombe02">
+        <fileTransfer host="pggombe02" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/data/webapps" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
