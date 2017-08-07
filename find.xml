@@ -4,9 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>yaml</mask>
-      <mask>*.tag, *.js</mask>
-      <mask>*.j</mask>
       <mask>ya</mask>
       <mask>yam</mask>
       <mask>*.yaml</mask>
@@ -22,18 +19,21 @@
       <mask>*.t*.tag, *.jsp</mask>
       <mask>*.*.tag, *.jsp</mask>
       <mask>so</mask>
-      <mask>j</mask>
       <mask>*.</mask>
       <mask>*</mask>
       <mask>s</mask>
       <mask>sc</mask>
       <mask>scs</mask>
       <mask>scss</mask>
-      <mask>*.js</mask>
-      <mask>*.scss</mask>
-      <mask>js</mask>
       <mask>jsp</mask>
       <mask>*.tag, *.jsp</mask>
+      <mask>*.scss</mask>
+      <mask>j</mask>
+      <mask>js</mask>
+      <mask>*.js</mask>
+      <mask>m</mask>
+      <mask>ma</mask>
+      <mask>map</mask>
     </recentFileMasks>
   </component>
 </application>
