@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.scss" />
     <recentFileMasks>
       <mask>*.yaml</mask>
       <mask>sca</mask>
@@ -16,12 +16,8 @@
       <mask>so</mask>
       <mask>*.</mask>
       <mask>*</mask>
-      <mask>s</mask>
-      <mask>sc</mask>
-      <mask>scs</mask>
       <mask>scss</mask>
       <mask>jsp</mask>
-      <mask>*.scss</mask>
       <mask>m</mask>
       <mask>ma</mask>
       <mask>map</mask>
@@ -35,6 +31,10 @@
       <mask>jav</mask>
       <mask>java</mask>
       <mask>*.java</mask>
+      <mask>s</mask>
+      <mask>sc</mask>
+      <mask>scs</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
