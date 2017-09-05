@@ -22,18 +22,18 @@
       <mask>*.scss</mask>
       <mask>jsp0</mask>
       <mask>jav</mask>
-      <mask>java</mask>
-      <mask>*.java</mask>
       <mask>y</mask>
       <mask>ya</mask>
       <mask>yam</mask>
       <mask>*.yaml</mask>
       <mask>jap</mask>
-      <mask>ja</mask>
-      <mask>j</mask>
       <mask>js</mask>
       <mask>jsp</mask>
       <mask>*.tag, *.jsp</mask>
+      <mask>j</mask>
+      <mask>ja</mask>
+      <mask>java</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
