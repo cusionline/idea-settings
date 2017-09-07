@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern=".gitignore_global" type="Git file" />
       <removed_mapping ext="tag" type="JSP" />
       <removed_mapping ext="jsp" type="JSP" />
       <mapping ext="tag" type="JSPX" />
