@@ -27,13 +27,13 @@
       <mask>*.java\\</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
-      <mask>js</mask>
-      <mask>jsp</mask>
-      <mask>*.tag, *.jsp</mask>
       <mask>s</mask>
       <mask>scs</mask>
       <mask>scss</mask>
       <mask>*.scss</mask>
+      <mask>js</mask>
+      <mask>jsp</mask>
+      <mask>*.tag, *.jsp</mask>
     </recentFileMasks>
   </component>
 </application>
