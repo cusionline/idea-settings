@@ -65,6 +65,46 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="ff6c49fd-556c-41ab-b777-fe132ccf2901" name="insegneselexprodbe" url="http://52.213.200.82">
+        <fileTransfer host="52.213.200.82" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/a.cusini" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="4e643398-f4ad-40c8-982a-2db458c56e70" name="insegneselexprodfe1" url="http://52.213.214.14">
+        <fileTransfer host="52.213.214.14" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/a.cusini" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="821b9c24-de2a-41e8-b8c7-728b3cf60e99" name="insegneselexprodfe2" url="http://52.31.64.222">
+        <fileTransfer host="52.31.64.222" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/a.cusini" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="c0d39cd5-f67f-4b68-b7af-fa2a52967602" name="insegneselexuatbe" url="http://52.19.101.65">
+        <fileTransfer host="52.19.101.65" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/a.cusini" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="916b8a92-8228-42a8-af34-7a1620429abc" name="insegneselexuatfe" url="http://52.212.119.11">
+        <fileTransfer host="52.212.119.11" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/a.cusini" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
