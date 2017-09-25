@@ -3,19 +3,9 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="" />
+    <option name="FILE_MASK" value="*.scss" />
     <recentFileMasks>
-      <mask>*.tag,</mask>
-      <mask>*.t</mask>
-      <mask>yam</mask>
-      <mask>*.java\</mask>
-      <mask>*.java\\\</mask>
       <mask>*.java\\</mask>
-      <mask>sc</mask>
-      <mask>*.scss</mask>
-      <mask>s</mask>
-      <mask>scs</mask>
-      <mask>scss</mask>
       <mask>t</mask>
       <mask>y</mask>
       <mask>ya</mask>
@@ -27,14 +17,24 @@
       <mask>*.java</mask>
       <mask>*.jav</mask>
       <mask>*.ja</mask>
-      <mask>jsp</mask>
-      <mask>*.tag, *.jsp</mask>
       <mask>*.tag, *.js</mask>
-      <mask>js</mask>
-      <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.</mask>
       <mask>*</mask>
+      <mask>l</mask>
+      <mask>less</mask>
+      <mask>les</mask>
+      <mask>le</mask>
+      <mask>scss</mask>
+      <mask>a</mask>
+      <mask>jsp</mask>
+      <mask>*.tag, *.jsp</mask>
+      <mask>js</mask>
+      <mask>*.js</mask>
+      <mask>s</mask>
+      <mask>sc</mask>
+      <mask>scs</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
