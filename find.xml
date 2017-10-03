@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.tag, *.jsp" />
     <recentFileMasks>
       <mask>y</mask>
       <mask>ya</mask>
@@ -26,14 +27,14 @@
       <mask>jsè</mask>
       <mask>jav</mask>
       <mask>jso</mask>
-      <mask>js</mask>
-      <mask>jsp</mask>
-      <mask>*.tag, *.jsp</mask>
-      <mask>j</mask>
       <mask>ja</mask>
       <mask>jac</mask>
       <mask>java</mask>
       <mask>*.java</mask>
+      <mask>j</mask>
+      <mask>js</mask>
+      <mask>jsp</mask>
+      <mask>*.tag, *.jsp</mask>
     </recentFileMasks>
   </component>
 </application>
