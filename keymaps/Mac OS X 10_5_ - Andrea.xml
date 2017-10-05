@@ -23,6 +23,7 @@
     <keyboard-shortcut first-keystroke="meta divide" />
     <keyboard-shortcut first-keystroke="meta minus" />
   </action>
+  <action id="Debug" />
   <action id="EditorMoveDownAndScroll">
     <keyboard-shortcut first-keystroke="meta alt down" />
   </action>
@@ -64,6 +65,9 @@
   </action>
   <action id="IncrementalSearch">
     <keyboard-shortcut first-keystroke="alt f" />
+  </action>
+  <action id="JRebel Debug">
+    <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
   <action id="LocalHistory.ShowHistory">
     <keyboard-shortcut first-keystroke="ctrl l" />
