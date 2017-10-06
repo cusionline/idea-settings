@@ -37,4 +37,10 @@
       <option name="JSP" value="true" />
     </context>
   </template>
+  <template name="elm" value="${elx.msg('$THIS$')}" description="ElFunctionBean Message (elx.msg())" toReformat="false" toShortenFQNames="true">
+    <variable name="THIS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JSP" value="true" />
+    </context>
+  </template>
 </templateSet>
