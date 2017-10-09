@@ -12,6 +12,9 @@
       <action id="ManageRecentProjects">
         <abbreviation name="MP" />
       </action>
+      <action id="ShowAppliedStylesAction">
+        <abbreviation name="SS" />
+      </action>
       <action id="DisableInspection">
         <abbreviation name="DI" />
       </action>
