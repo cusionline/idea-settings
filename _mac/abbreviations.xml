@@ -9,6 +9,9 @@
       <action id="CloseProject">
         <abbreviation name="CP" />
       </action>
+      <action id="CodeCleanup">
+        <abbreviation name="CC" />
+      </action>
       <action id="ManageRecentProjects">
         <abbreviation name="MP" />
       </action>
