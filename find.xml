@@ -8,7 +8,6 @@
     <recentFileMasks>
       <mask>*</mask>
       <mask>*.j</mask>
-      <mask>*.js</mask>
       <mask>scù</mask>
       <mask>sc</mask>
       <mask>x</mask>
@@ -33,9 +32,10 @@
       <mask>ja</mask>
       <mask>java</mask>
       <mask>*.java</mask>
-      <mask>js</mask>
       <mask>jsp</mask>
       <mask>*.tag, *.jsp</mask>
+      <mask>js</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
