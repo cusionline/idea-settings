@@ -21,19 +21,19 @@
       <mask>y</mask>
       <mask>ya</mask>
       <mask>yam</mask>
-      <mask>j</mask>
       <mask>ja</mask>
       <mask>java</mask>
       <mask>*.java</mask>
-      <mask>*.js</mask>
-      <mask>js</mask>
-      <mask>jsp</mask>
-      <mask>*.tag, *.jsp</mask>
       <mask>s</mask>
       <mask>sc</mask>
       <mask>scs</mask>
       <mask>*.scss</mask>
       <mask>*.yaml</mask>
+      <mask>jsp</mask>
+      <mask>*.tag, *.jsp</mask>
+      <mask>j</mask>
+      <mask>js</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
