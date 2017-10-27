@@ -11,12 +11,9 @@
       <mask>*.y</mask>
       <mask>*.ya</mask>
       <mask>*.yam</mask>
-      <mask>jap</mask>
       <mask>*</mask>
       <mask>*.</mask>
-      <mask>*.js</mask>
       <mask>scss</mask>
-      <mask>jac</mask>
       <mask>sc</mask>
       <mask>scs</mask>
       <mask>*.scss</mask>
@@ -26,12 +23,15 @@
       <mask>yaml</mask>
       <mask>*.yaml</mask>
       <mask>sj</mask>
+      <mask>jap</mask>
       <mask>s</mask>
       <mask>j</mask>
       <mask>js</mask>
+      <mask>*.js</mask>
       <mask>jsp</mask>
       <mask>*.tag, *.jsp</mask>
       <mask>ja</mask>
+      <mask>jac</mask>
       <mask>java</mask>
       <mask>*.java</mask>
     </recentFileMasks>
