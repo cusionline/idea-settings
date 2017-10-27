@@ -3,9 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.yaml" />
     <recentFileMasks>
-      <mask>x</mask>
       <mask>xm</mask>
       <mask>xml</mask>
       <mask>*.xml</mask>
@@ -17,16 +15,11 @@
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.js</mask>
-      <mask>j</mask>
-      <mask>js</mask>
-      <mask>jsp</mask>
-      <mask>*.tag, *.jsp</mask>
       <mask>scss</mask>
       <mask>ja</mask>
       <mask>jac</mask>
       <mask>java</mask>
       <mask>*.java</mask>
-      <mask>s</mask>
       <mask>sc</mask>
       <mask>scs</mask>
       <mask>*.scss</mask>
@@ -35,6 +28,12 @@
       <mask>yam</mask>
       <mask>yaml</mask>
       <mask>*.yaml</mask>
+      <mask>sj</mask>
+      <mask>s</mask>
+      <mask>j</mask>
+      <mask>js</mask>
+      <mask>jsp</mask>
+      <mask>*.tag, *.jsp</mask>
     </recentFileMasks>
   </component>
 </application>
