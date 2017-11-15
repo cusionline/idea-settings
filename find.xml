@@ -4,19 +4,13 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>yaml</mask>
-      <mask>hs</mask>
-      <mask>h</mask>
       <mask>java</mask>
       <mask>*.java</mask>
       <mask>ja</mask>
       <mask>*.js</mask>
       <mask>s</mask>
       <mask>scss</mask>
-      <mask>y</mask>
       <mask>ya</mask>
-      <mask>yam</mask>
-      <mask>*.yaml</mask>
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.p</mask>
@@ -34,6 +28,12 @@
       <mask>sc</mask>
       <mask>scs</mask>
       <mask>*.scss</mask>
+      <mask>yma</mask>
+      <mask>ym</mask>
+      <mask>y</mask>
+      <mask>yam</mask>
+      <mask>yaml</mask>
+      <mask>*.yaml</mask>
     </recentFileMasks>
   </component>
 </application>
