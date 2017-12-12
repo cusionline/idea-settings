@@ -1,4 +1,9 @@
 <application>
+  <component name="GwtSdkManager">
+    <gwt-sdk-list>
+      <gwt-sdk url="file://$MAVEN_REPOSITORY$/com/google/gwt/gwt-dev/2.7.0" />
+    </gwt-sdk-list>
+  </component>
   <component name="libraryTable">
     <library name="Python 3.6.2 (/Library/Frameworks/Python.framework/Versions/3.6/bin/python3.6) interpreter library">
       <CLASSES />
