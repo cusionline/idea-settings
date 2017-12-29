@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.scss" />
     <recentFileMasks>
       <mask>*xml</mask>
       <mask>*.xml</mask>
@@ -19,13 +20,8 @@
       <mask>jaca</mask>
       <mask>jac</mask>
       <mask>j</mask>
-      <mask>sc</mask>
-      <mask>scss</mask>
       <mask>js</mask>
       <mask>jsp</mask>
-      <mask>s</mask>
-      <mask>scs</mask>
-      <mask>*.scss</mask>
       <mask>ja</mask>
       <mask>java</mask>
       <mask>*.tag, *.jsp</mask>
@@ -34,6 +30,11 @@
       <mask>*.</mask>
       <mask>*.ja</mask>
       <mask>*.java</mask>
+      <mask>s</mask>
+      <mask>sc</mask>
+      <mask>scs</mask>
+      <mask>scss</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
