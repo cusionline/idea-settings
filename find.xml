@@ -19,12 +19,6 @@
       <mask>jaca</mask>
       <mask>jac</mask>
       <mask>j</mask>
-      <mask>js</mask>
-      <mask>jsp</mask>
-      <mask>ja</mask>
-      <mask>java</mask>
-      <mask>*.tag, *.jsp</mask>
-      <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.</mask>
       <mask>*.ja</mask>
@@ -34,6 +28,12 @@
       <mask>scss</mask>
       <mask>*.scss</mask>
       <mask>JA</mask>
+      <mask>jsp</mask>
+      <mask>*.tag, *.jsp</mask>
+      <mask>js</mask>
+      <mask>*.js</mask>
+      <mask>ja</mask>
+      <mask>java</mask>
       <mask>*.java</mask>
     </recentFileMasks>
   </component>
