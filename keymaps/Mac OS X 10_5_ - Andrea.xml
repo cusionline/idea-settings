@@ -68,6 +68,7 @@
   <action id="HippieCompletion">
     <keyboard-shortcut first-keystroke="alt back_quote" />
     <keyboard-shortcut first-keystroke="alt less" />
+    <keyboard-shortcut first-keystroke="ctrl o_with_grave" />
   </action>
   <action id="IncrementalSearch">
     <keyboard-shortcut first-keystroke="alt f" />
