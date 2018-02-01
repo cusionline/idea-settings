@@ -31,9 +31,9 @@
       <mask>jsp</mask>
       <mask>*.scss</mask>
       <mask>*.tag, *.jsp</mask>
-      <mask>*.yaml</mask>
       <mask>*.js</mask>
       <mask>*.tag, *.tag, *.jsp</mask>
+      <mask>*.yaml</mask>
     </recentFileMasks>
   </component>
 </application>
