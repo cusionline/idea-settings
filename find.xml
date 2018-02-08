@@ -1,8 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../selex-frontend/src/main/java/it/reply/square/magnolia/webapp/service/UserService.java [selex-frontend]'" />
-    <option name="defaultScopeName" value="File '.../selex-frontend/src/main/java/it/reply/square/magnolia/webapp/service/UserService.java [selex-frontend]'" />
-    <option name="SEARCH_SCOPE" value="File '.../selex-frontend/src/main/java/it/reply/square/magnolia/webapp/service/UserService.java [selex-frontend]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>y</mask>
       <mask>yan</mask>
@@ -26,7 +27,6 @@
       <mask>JA</mask>
       <mask>ja</mask>
       <mask>java</mask>
-      <mask>*.java</mask>
       <mask>js</mask>
       <mask>jsp</mask>
       <mask>*.js</mask>
@@ -34,6 +34,7 @@
       <mask>*.scss</mask>
       <mask>*.tag, *.jsp</mask>
       <mask>*.yaml</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
