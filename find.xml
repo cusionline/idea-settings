@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
       <mask>ya</mask>
       <mask>yam</mask>
@@ -24,7 +23,6 @@
       <mask>scss</mask>
       <mask>JA</mask>
       <mask>ja</mask>
-      <mask>java</mask>
       <mask>js</mask>
       <mask>jsp</mask>
       <mask>*.js</mask>
@@ -35,6 +33,7 @@
       <mask>*.java</mask>
       <mask>*.groovy</mask>
       <mask>*.xml</mask>
+      <mask>java</mask>
     </recentFileMasks>
   </component>
 </application>
