@@ -2,6 +2,7 @@
   <template name="dol" value="${$THIS$}" description="Element selection (dollar + brackets)" toReformat="false" toShortenFQNames="true">
     <variable name="THIS" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GROOVY" value="true" />
       <option name="JSP" value="true" />
     </context>
   </template>
