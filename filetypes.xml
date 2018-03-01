@@ -10,8 +10,6 @@
       <mapping pattern="DDL_ALTER_TABLE_REQUEST_EMAILOPENED.sql" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="CrmCommonReferenceService.wsdl" type="PLAIN_TEXT" />
-      <mapping ext="otf" type="PLAIN_TEXT" />
-      <mapping ext="ttf" type="PLAIN_TEXT" />
       <mapping ext="vmoptions" type="PLAIN_TEXT" />
       <mapping ext="woff" type="PLAIN_TEXT" />
       <mapping pattern="createGenericProductsOrderTable" type="SQL" />
