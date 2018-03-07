@@ -15,6 +15,7 @@
       <mapping ext="vmoptions" type="PLAIN_TEXT" />
       <mapping ext="woff" type="PLAIN_TEXT" />
       <mapping pattern="createGenericProductsOrderTable" type="SQL" />
+      <mapping pattern="DDL_ALTER_TABLE_APPOINTMENT_ADD_COUNTRY" type="SQL" />
     </extensionMap>
   </component>
 </application>
