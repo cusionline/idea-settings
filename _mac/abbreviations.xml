@@ -9,14 +9,14 @@
       <action id="CloseProject">
         <abbreviation name="CP" />
       </action>
-      <action id="CodeCleanup">
-        <abbreviation name="CC" />
-      </action>
       <action id="ManageRecentProjects">
         <abbreviation name="MP" />
       </action>
       <action id="ShowAppliedStylesAction">
         <abbreviation name="SS" />
+      </action>
+      <action id="CloseAllEditors">
+        <abbreviation name="CA" />
       </action>
       <action id="DisableInspection">
         <abbreviation name="DI" />
@@ -33,14 +33,17 @@
       <action id="Annotate">
         <abbreviation name="AN" />
       </action>
+      <action id="ShowPopupMenu">
+        <abbreviation name="CM" />
+      </action>
       <action id="Git.ResolveConflicts">
         <abbreviation name="RC" />
       </action>
       <action id="CompileProject">
         <abbreviation name="RP" />
       </action>
-      <action id="CloseAllEditors">
-        <abbreviation name="CA" />
+      <action id="CodeCleanup">
+        <abbreviation name="CC" />
       </action>
     </abbreviations>
   </component>
