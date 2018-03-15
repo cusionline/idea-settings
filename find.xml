@@ -32,8 +32,8 @@
       <mask>*</mask>
       <mask>*.yaml</mask>
       <mask>*.scss</mask>
-      <mask>*.java, *.groovy</mask>
       <mask>*.tag, *.jsp</mask>
+      <mask>*.java, *.groovy</mask>
     </recentFileMasks>
   </component>
 </application>
