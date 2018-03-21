@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java, *.groovy" />
     <recentFileMasks>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
@@ -32,8 +33,8 @@
       <mask>*</mask>
       <mask>*.scss</mask>
       <mask>*.tag, *.jsp</mask>
-      <mask>*.java, *.groovy</mask>
       <mask>*.yaml</mask>
+      <mask>*.java, *.groovy</mask>
     </recentFileMasks>
   </component>
 </application>
