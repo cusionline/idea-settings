@@ -1,5 +1,6 @@
 <application>
   <component name="JavaRebelPlugin">
+    <option name="griffin" value="false" />
     <option name="ideInstallationStorage">
       <map>
         <entry key="com.zeroturnaround.jrebel.FormatVersion" value="7.0.0" />
@@ -8,6 +9,6 @@
         <entry key="com.zeroturnaround.jrebel.update.UpdateNotificationCount" value="1" />
       </map>
     </option>
-    <option name="javaRebelPath" value="$USER_HOME$/.jrebel/nightly_cache/201803291041/jrebel/jrebel.jar" />
+    <option name="javaRebelPath" value="$USER_HOME$/.jrebel/nightly_cache/201804030656/jrebel/jrebel.jar" />
   </component>
 </application>
