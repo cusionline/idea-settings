@@ -7,7 +7,8 @@
   <action id="CloseAllEditorsButActive" />
   <action id="MergeSettings" />
   <action id="Annotate" />
+  <action id="WebServicesPlugin.CreateRESTClient" />
   <action id="QuickList.$Separator$" />
-  <action id="ShowTips" />
   <action id="CheckForUpdate" />
+  <action id="ShowTips" />
 </list>
