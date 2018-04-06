@@ -1,0 +1,10 @@
+<list display="Utilities" description="Personal Andrea Utilities quick list">
+  <action id="InvalidateCaches" />
+  <action id="CloseProject" />
+  <action id="ManageRecentProjects" />
+  <action id="Annotate" />
+  <action id="CloseAllEditorsButActive" />
+  <action id="ShowTips" />
+  <action id="CheckForUpdate" />
+  <action id="MergeSettings" />
+</list>

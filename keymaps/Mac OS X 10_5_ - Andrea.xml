@@ -85,6 +85,9 @@
   <action id="MethodUp">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
+  <action id="QuickList.Utilities">
+    <keyboard-shortcut first-keystroke="ctrl u" />
+  </action>
   <action id="ShowProjectStructureSettings">
     <keyboard-shortcut first-keystroke="meta semicolon" />
     <keyboard-shortcut first-keystroke="meta u_with_grave" />
