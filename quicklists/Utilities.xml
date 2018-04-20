@@ -6,10 +6,11 @@
   <action id="QuickList.$Separator$" />
   <action id="CloseAllEditorsButActive" />
   <action id="MergeSettings" />
-  <action id="Annotate" />
+  <action id="XDebugger.MuteBreakpoints" />
   <action id="ShowPopupMenu" />
   <action id="WebServicesPlugin.CreateRESTClient" />
   <action id="QuickList.$Separator$" />
   <action id="CheckForUpdate" />
   <action id="ShowTips" />
+  <action id="Annotate" />
 </list>
