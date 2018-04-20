@@ -5,6 +5,7 @@
   <action id="CloseProject" />
   <action id="QuickList.$Separator$" />
   <action id="CloseAllEditorsButActive" />
+  <action id="Git.ResolveConflicts" />
   <action id="MergeSettings" />
   <action id="XDebugger.MuteBreakpoints" />
   <action id="ShowPopupMenu" />
