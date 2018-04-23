@@ -12,10 +12,10 @@
     <mask>*.js</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
-    <mask>*.mxml</mask>
     <mask>*.scss</mask>
     <mask>*.java,*.groovy</mask>
     <mask>*.jsp,*.tag</mask>
+    <mask>*.mxml</mask>
     <mask>*.yaml</mask>
   </component>
 </application>
