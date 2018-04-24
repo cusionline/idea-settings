@@ -65,6 +65,10 @@
     <mouse-shortcut keystroke="alt button142" />
     <keyboard-shortcut first-keystroke="alt g" />
   </action>
+  <action id="GotoPrevElementUnderCaretUsage">
+    <mouse-shortcut keystroke="alt button143" />
+    <keyboard-shortcut first-keystroke="shift alt g" />
+  </action>
   <action id="HippieBackwardCompletion">
     <keyboard-shortcut first-keystroke="shift alt back_quote" />
     <keyboard-shortcut first-keystroke="shift alt less" />
