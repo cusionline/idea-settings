@@ -3,11 +3,11 @@
     <option name="customScope" value="Open Files" />
     <option name="defaultScopeName" value="Open Files" />
     <option name="SEARCH_SCOPE" value="Open Files" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
-    <mask>*.java</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.scss</mask>
@@ -17,5 +17,6 @@
     <mask>*.js</mask>
     <mask>*.js,!*.config.js</mask>
     <mask>*.jsp,*.tag</mask>
+    <mask>*.java</mask>
   </component>
 </application>
