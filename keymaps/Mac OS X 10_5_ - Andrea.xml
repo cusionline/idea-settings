@@ -96,6 +96,9 @@
   <action id="QuickList.Utilities">
     <keyboard-shortcut first-keystroke="ctrl u" />
   </action>
+  <action id="RearrangeCode">
+    <keyboard-shortcut first-keystroke="shift meta l" />
+  </action>
   <action id="ShowProjectStructureSettings">
     <keyboard-shortcut first-keystroke="meta semicolon" />
     <keyboard-shortcut first-keystroke="meta u_with_grave" />
