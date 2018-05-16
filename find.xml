@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Open Files" />
-    <option name="defaultScopeName" value="Open Files" />
-    <option name="SEARCH_SCOPE" value="Open Files" />
+    <option name="customScope" value="File '.../bin/custom/selex/selexweb/web/src/it/selex/web/controllers/PromoDiscountController.java [selexweb]'" />
+    <option name="defaultScopeName" value="File '.../bin/custom/selex/selexweb/web/src/it/selex/web/controllers/PromoDiscountController.java [selexweb]'" />
+    <option name="SEARCH_SCOPE" value="File '.../bin/custom/selex/selexweb/web/src/it/selex/web/controllers/PromoDiscountController.java [selexweb]'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
