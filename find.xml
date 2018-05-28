@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '.../bin/custom/selex/selexweb/web/src/it/selex/web/el/ElFunctionsBean.java [selexweb]'" />
+    <option name="defaultScopeName" value="File '.../bin/custom/selex/selexweb/web/src/it/selex/web/el/ElFunctionsBean.java [selexweb]'" />
+    <option name="SEARCH_SCOPE" value="File '.../bin/custom/selex/selexweb/web/src/it/selex/web/el/ElFunctionsBean.java [selexweb]'" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.as</mask>
