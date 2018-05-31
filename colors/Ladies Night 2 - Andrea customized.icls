@@ -4,7 +4,7 @@
     <property name="created">2017-07-14T17:07:34</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.1.4.0.0</property>
-    <property name="modified">2018-05-31T17:40:24</property>
+    <property name="modified">2018-05-31T17:47:33</property>
     <property name="originalScheme">Ladies Night 2 copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -555,7 +555,7 @@
     </option>
     <option name="LOCAL_VARIABLE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="b15739" />
+        <option name="FOREGROUND" value="d7a27f" />
       </value>
     </option>
     <option name="LOG_ERROR_OUTPUT">
@@ -616,7 +616,7 @@
     </option>
     <option name="REASSIGNED_LOCAL_VARIABLE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="b15739" />
+        <option name="FOREGROUND" value="d7a27f" />
       </value>
     </option>
     <option name="REASSIGNED_PARAMETER_ATTRIBUTES">
