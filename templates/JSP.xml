@@ -44,4 +44,10 @@
       <option name="JSP" value="true" />
     </context>
   </template>
+  <template name="comm" value="&lt;!--$THIS$--&gt;" description="Comment HTML &lt;!-- --&gt;" toReformat="false" toShortenFQNames="true">
+    <variable name="THIS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JSP" value="true" />
+    </context>
+  </template>
 </templateSet>
