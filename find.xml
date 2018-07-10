@@ -3,7 +3,7 @@
     <option name="customScope" value="[y] Custom" />
     <option name="defaultScopeName" value="[y] Custom" />
     <option name="SEARCH_SCOPE" value="[y] Custom" />
-    <option name="FILE_MASK" value="*.scss" />
+    <option name="FILE_MASK" value="*.jsp,*.tag" />
     <mask>*.jsp</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
@@ -15,8 +15,8 @@
     <mask>*.html</mask>
     <mask>*.java</mask>
     <mask>*.yaml</mask>
-    <mask>*.jsp,*.tag</mask>
     <mask>*.js</mask>
     <mask>*.scss</mask>
+    <mask>*.jsp,*.tag</mask>
   </component>
 </application>
