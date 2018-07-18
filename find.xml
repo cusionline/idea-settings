@@ -3,7 +3,7 @@
     <option name="customScope" value="SelexProjectFiles" />
     <option name="defaultScopeName" value="SelexProjectFiles" />
     <option name="SEARCH_SCOPE" value="SelexProjectFiles" />
-    <option name="FILE_MASK" value="*.jsp,*.tag" />
+    <option name="FILE_MASK" value="*.yaml" />
     <mask>*.jsp</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
@@ -14,9 +14,9 @@
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.java</mask>
-    <mask>*.yaml</mask>
     <mask>*.scss</mask>
     <mask>*.js</mask>
     <mask>*.jsp,*.tag</mask>
+    <mask>*.yaml</mask>
   </component>
 </application>
