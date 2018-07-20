@@ -9,7 +9,6 @@
     <mask>*.java,*.groovy</mask>
     <mask>*.mxml</mask>
     <mask>*.js,!*.config.js</mask>
-    <mask>*.xml</mask>
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.java</mask>
@@ -17,5 +16,6 @@
     <mask>*.jsp,*.tag</mask>
     <mask>*.scss</mask>
     <mask>*.js</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
