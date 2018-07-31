@@ -10,4 +10,12 @@
       <option name="JSP" value="true" />
     </context>
   </template>
+  <template name="g" value="{$END$}" description="insert brackets {}" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JSON" value="true" />
+      <option name="JSP" value="true" />
+    </context>
+  </template>
 </templateSet>
