@@ -16,7 +16,7 @@
     <mask>*.yaml</mask>
     <mask>*.yaml,*.yml</mask>
     <mask>*.java</mask>
-    <mask>*.jsp,*.tag</mask>
     <mask>*.java,*.groovy</mask>
+    <mask>*.jsp,*.tag</mask>
   </component>
 </application>
