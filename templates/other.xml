@@ -25,20 +25,22 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="pume" value="public $TYPE$ $NAME$($PARAMS$){&#10;    $END$&#10;  return $RETURN$;&#10;}" description="public method" toReformat="true" toShortenFQNames="true">
-    <variable name="TYPE" expression="methodReturnType()" defaultValue="String" alwaysStopAt="true" />
-    <variable name="NAME" expression="methodName()" defaultValue="" alwaysStopAt="true" />
-    <variable name="PARAMS" expression="methodParameters()" defaultValue="" alwaysStopAt="true" />
-    <variable name="RETURN" expression="variableOfType(Type)" defaultValue="" alwaysStopAt="true" />
+  <template name="pume" value="public $TYPE$ $NAME$($PARAMS$){&#10;    $RETTYPE$ $RETNAME$ = new $RETTYPE$();&#10;    $END$&#10;  return $RETNAME$;&#10;}" description="public method" toReformat="true" toShortenFQNames="true">
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAMS" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="RETTYPE" expression="methodReturnType()" defaultValue="String" alwaysStopAt="true" />
+    <variable name="RETNAME" expression="" defaultValue="returnName" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="prme" value="private $TYPE$ $NAME$($PARAMS$){&#10;    $END$&#10;  return $RETURN$;&#10;}" description="private method" toReformat="true" toShortenFQNames="true">
+  <template name="prme" value="private $TYPE$ $NAME$($PARAMS$){ &#10;    $RETTYPE$ $RETNAME$ = new $RETTYPE$();&#10;    $END$&#10;    return $RETNAME$;&#10;}" description="private method" toReformat="true" toShortenFQNames="true">
     <variable name="TYPE" expression="methodReturnType()" defaultValue="String" alwaysStopAt="true" />
     <variable name="NAME" expression="methodName()" defaultValue="" alwaysStopAt="true" />
     <variable name="PARAMS" expression="methodParameters()" defaultValue="" alwaysStopAt="true" />
-    <variable name="RETURN" expression="variableOfType(Type)" defaultValue="" alwaysStopAt="true" />
+    <variable name="RETTYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="RETNAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
