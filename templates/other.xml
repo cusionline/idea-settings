@@ -45,4 +45,9 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="innS" value="$SELECTION$ != null ? $SELECTION$ $END$" description="Inserts ''if not null'' statement surround" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
