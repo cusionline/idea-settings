@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../selex-frontend/src/main/java/it/konvergence/swagger/api/ApiApi.java [selex-frontend]'" />
-    <option name="defaultScopeName" value="File '.../selex-frontend/src/main/java/it/konvergence/swagger/api/ApiApi.java [selex-frontend]'" />
-    <option name="SEARCH_SCOPE" value="File '.../selex-frontend/src/main/java/it/konvergence/swagger/api/ApiApi.java [selex-frontend]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.jsp</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
