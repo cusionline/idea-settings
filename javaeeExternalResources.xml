@@ -5,5 +5,6 @@
     <resource url="http://schemas.xmlsoap.org/ws/2005/07/securitypolicy" location="$USER_HOME$/Library/Caches/IntelliJIdea2017.2/extResources/791f18bc_securitypolicy.html" />
     <ignored-resource url="http://schema.org/Offer" />
     <ignored-resource url="http://schema.org/Product" />
+    <ignored-resource url="http://www.zeroturnaround.com" />
   </component>
 </application>
