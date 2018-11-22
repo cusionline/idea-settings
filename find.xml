@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="SelexProjectFiles" />
-    <option name="defaultScopeName" value="SelexProjectFiles" />
-    <option name="SEARCH_SCOPE" value="SelexProjectFiles" />
-    <option name="FILE_MASK" value="*.jsp,*.tag" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.scss" />
     <mask>*.jsp</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
@@ -18,7 +18,7 @@
     <mask>*.yaml</mask>
     <mask>*.js</mask>
     <mask>*.java</mask>
-    <mask>*.scss</mask>
     <mask>*.jsp,*.tag</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
