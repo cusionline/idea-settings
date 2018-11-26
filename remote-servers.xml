@@ -3,5 +3,10 @@
     <remote-server name="Google App Engine" type="google-app-engine">
       <configuration email="andrea.cusini@openmindonline.it" password-stored="true" />
     </remote-server>
+    <remote-server name="Docker" type="docker">
+      <configuration>
+        <option name="apiUrl" value="unix:///var/run/docker.sock" />
+      </configuration>
+    </remote-server>
   </component>
 </application>
