@@ -10,7 +10,6 @@
     <mask>*.js,!*.config.js</mask>
     <mask>*.html</mask>
     <mask>*.yaml,*.yml</mask>
-    <mask>*.properties</mask>
     <mask>*.xml</mask>
     <mask>*.java,*.groovy</mask>
     <mask>*.ts</mask>
@@ -19,5 +18,6 @@
     <mask>*.js</mask>
     <mask>*.scss</mask>
     <mask>*.jsp,*.tag</mask>
+    <mask>*.properties</mask>
   </component>
 </application>
