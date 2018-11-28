@@ -9,14 +9,14 @@
       <action id="CloseProject">
         <abbreviation name="CP" />
       </action>
+      <action id="CodeCleanup">
+        <abbreviation name="CC" />
+      </action>
       <action id="ManageRecentProjects">
         <abbreviation name="MP" />
       </action>
       <action id="ShowAppliedStylesAction">
         <abbreviation name="SS" />
-      </action>
-      <action id="CloseAllEditors">
-        <abbreviation name="CA" />
       </action>
       <action id="DisableInspection">
         <abbreviation name="DI" />
@@ -30,6 +30,9 @@
       <action id="ToggleDistractionFreeMode">
         <abbreviation name="DF" />
       </action>
+      <action id="StoreDefaultLayout">
+        <abbreviation name="SD" />
+      </action>
       <action id="Annotate">
         <abbreviation name="AN" />
       </action>
@@ -42,8 +45,8 @@
       <action id="CompileProject">
         <abbreviation name="RP" />
       </action>
-      <action id="CodeCleanup">
-        <abbreviation name="CC" />
+      <action id="CloseAllEditors">
+        <abbreviation name="CA" />
       </action>
     </abbreviations>
   </component>
