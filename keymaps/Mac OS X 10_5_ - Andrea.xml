@@ -121,6 +121,9 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
+  <action id="ToggleDistractionFreeMode">
+    <keyboard-shortcut first-keystroke="ctrl u_with_grave" />
+  </action>
   <action id="Vcs.Show.Local.Changes">
     <keyboard-shortcut first-keystroke="f16" second-keystroke="1" />
   </action>
