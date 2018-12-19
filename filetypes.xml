@@ -1,7 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping ext="klib" type="ARCHIVE" />
       <mapping ext="woff2" type="Native" />
       <mapping pattern="DDL_ALTER_TABLE_REQUEST_EMAILOPENED.sql" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
@@ -10,6 +10,7 @@
       <mapping ext="woff" type="PLAIN_TEXT" />
       <mapping pattern="createGenericProductsOrderTable" type="SQL" />
       <mapping pattern="DDL_ALTER_TABLE_APPOINTMENT_ADD_COUNTRY" type="SQL" />
+      <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
   </component>
 </application>
