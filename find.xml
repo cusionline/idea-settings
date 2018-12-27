@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="SelexProjectFiles" />
     <option name="defaultScopeName" value="SelexProjectFiles" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="SelexProjectFiles" />
     <mask>*.jsp</mask>
     <mask>*.as</mask>
