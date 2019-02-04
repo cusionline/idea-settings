@@ -8,6 +8,5 @@
     <entry key="documentation.show.toolbar" value="true" />
     <entry key="compiler.automake.allow.when.app.running" value="true" />
     <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
-    <entry key="git.explicit.commit.renames.prohibit.multiple.calls" value="false" />
   </component>
 </application>
