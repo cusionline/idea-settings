@@ -16,8 +16,8 @@
     <mask>*.jsp,*.tag</mask>
     <mask>*.properties</mask>
     <mask>*.js</mask>
+    <mask>*.scss</mask>
     <mask>*.yaml</mask>
     <mask>*.java,*.groovy</mask>
-    <mask>*.scss</mask>
   </component>
 </application>
