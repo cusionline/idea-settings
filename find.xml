@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '.../mgnl5-frontend/src/main/groovy/it/openmindonline/piaggio/actions/CommercialVehiclesConfiguratorController.groovy [mgnl5-frontend]'" />
+    <option name="defaultScopeName" value="File '.../mgnl5-frontend/src/main/groovy/it/openmindonline/piaggio/actions/CommercialVehiclesConfiguratorController.groovy [mgnl5-frontend]'" />
+    <option name="SEARCH_SCOPE" value="File '.../mgnl5-frontend/src/main/groovy/it/openmindonline/piaggio/actions/CommercialVehiclesConfiguratorController.groovy [mgnl5-frontend]'" />
     <mask>*.jsp</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
