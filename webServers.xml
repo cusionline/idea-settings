@@ -105,6 +105,22 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="d8af353b-dcd5-417c-aa3e-eea007f894d3" name="pggombe02 - mgnl5-qa-author" url="http://pggombe02">
+        <fileTransfer host="pggombe02" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/data/webapps" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="3edc8b84-b973-4db1-b8e7-a51273bf050a" name="pggombe02 - mgnl5-qa-public" url="http://pggombe02">
+        <fileTransfer host="pggombe02" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/data/webapps" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
