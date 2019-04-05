@@ -102,6 +102,9 @@
   <action id="RearrangeCode">
     <keyboard-shortcut first-keystroke="shift meta l" />
   </action>
+  <action id="RevealIn">
+    <keyboard-shortcut first-keystroke="clear" />
+  </action>
   <action id="ShowProjectStructureSettings">
     <keyboard-shortcut first-keystroke="meta semicolon" />
     <keyboard-shortcut first-keystroke="meta u_with_grave" />
