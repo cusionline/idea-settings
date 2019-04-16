@@ -24,6 +24,9 @@
     <keyboard-shortcut first-keystroke="meta divide" />
     <keyboard-shortcut first-keystroke="meta minus" />
   </action>
+  <action id="ConsoleView.ClearAll">
+    <keyboard-shortcut first-keystroke="ctrl delete" />
+  </action>
   <action id="Debug" />
   <action id="EditorMoveDownAndScroll">
     <keyboard-shortcut first-keystroke="meta alt down" />
