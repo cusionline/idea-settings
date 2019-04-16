@@ -108,6 +108,9 @@
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="clear" />
   </action>
+  <action id="ShowPopupMenu">
+    <keyboard-shortcut first-keystroke="f13" />
+  </action>
   <action id="ShowProjectStructureSettings">
     <keyboard-shortcut first-keystroke="meta semicolon" />
     <keyboard-shortcut first-keystroke="meta u_with_grave" />
