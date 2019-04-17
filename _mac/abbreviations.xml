@@ -1,6 +1,9 @@
 <application>
   <component name="AbbreviationManager">
     <abbreviations>
+      <action id="Terminal.OpenInTerminal">
+        <abbreviation name="trm" />
+      </action>
       <action id="HippieCompletion" />
       <action id="RebuildGradleProject" />
       <action id="ConsoleView.ClearAll">
@@ -9,14 +12,17 @@
       <action id="CloseProject">
         <abbreviation name="CP" />
       </action>
-      <action id="CodeCleanup">
-        <abbreviation name="CC" />
-      </action>
       <action id="ManageRecentProjects">
         <abbreviation name="MP" />
       </action>
       <action id="ShowAppliedStylesAction">
         <abbreviation name="SS" />
+      </action>
+      <action id="Annotate">
+        <abbreviation name="AN" />
+      </action>
+      <action id="SplitVertically">
+        <abbreviation name="SV" />
       </action>
       <action id="Vcs.Show.Log">
         <abbreviation name="SL" />
@@ -36,14 +42,11 @@
       <action id="editRunConfigurations">
         <abbreviation name="cfg" />
       </action>
-      <action id="Terminal.OpenInTerminal">
-        <abbreviation name="trm" />
-      </action>
       <action id="StoreDefaultLayout">
         <abbreviation name="SD" />
       </action>
-      <action id="Annotate">
-        <abbreviation name="AN" />
+      <action id="CodeCleanup">
+        <abbreviation name="CC" />
       </action>
       <action id="ShowPopupMenu">
         <abbreviation name="CM" />
