@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../vespa-frontend/src/main/groovy/it/openmindonline/piaggio/services/FinancialSimulatorService.groovy [vespa-frontend]'" />
-    <option name="defaultScopeName" value="File '.../vespa-frontend/src/main/groovy/it/openmindonline/piaggio/services/FinancialSimulatorService.groovy [vespa-frontend]'" />
-    <option name="SEARCH_SCOPE" value="File '.../vespa-frontend/src/main/groovy/it/openmindonline/piaggio/services/FinancialSimulatorService.groovy [vespa-frontend]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.jsp</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
