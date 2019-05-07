@@ -3,6 +3,7 @@
     <resource url="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea2017.2/extResources/70e3a855_oasis-200401-wss-wssecurity-utility-1.0.xsd" />
     <resource url="http://schemas.xmlsoap.org/ws/2003/05/partner-link/" location="$USER_HOME$/Library/Caches/IntelliJIdea2017.2/extResources/51efd3e6_.xml" />
     <resource url="http://schemas.xmlsoap.org/ws/2005/07/securitypolicy" location="$USER_HOME$/Library/Caches/IntelliJIdea2017.2/extResources/791f18bc_securitypolicy.html" />
+    <ignored-resource url="http://jakarta.apache.org/log4j/" />
     <ignored-resource url="http://schema.org/Offer" />
     <ignored-resource url="http://schema.org/Product" />
     <ignored-resource url="http://www.zeroturnaround.com" />
