@@ -1,0 +1,8 @@
+<application>
+  <component name="PostfixTemplates">
+    <template id="dn@userDefined" key=".dn" provider="builtin.java" language-level="1.3" topmost="false">
+      <conditions />
+      <template name="fakeKey" value="$EXPR$ != null" toReformat="true" toShortenFQNames="true" />
+    </template>
+  </component>
+</application>
