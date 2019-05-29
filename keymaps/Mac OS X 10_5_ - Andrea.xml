@@ -102,6 +102,16 @@
   <action id="MethodUp">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="shift meta close_bracket" />
+    <keyboard-shortcut first-keystroke="ctrl right" />
+    <keyboard-shortcut first-keystroke="shift ctrl right" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="shift meta open_bracket" />
+    <keyboard-shortcut first-keystroke="ctrl left" />
+    <keyboard-shortcut first-keystroke="shift ctrl left" />
+  </action>
   <action id="QuickList.Utilities">
     <keyboard-shortcut first-keystroke="ctrl u" />
   </action>
