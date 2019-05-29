@@ -111,6 +111,10 @@
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="clear" />
   </action>
+  <action id="ShowContent">
+    <keyboard-shortcut first-keystroke="ctrl down" />
+    <keyboard-shortcut first-keystroke="shift ctrl down" />
+  </action>
   <action id="ShowPopupMenu">
     <keyboard-shortcut first-keystroke="f13" />
   </action>
