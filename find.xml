@@ -16,10 +16,10 @@
     <mask>*.groovy</mask>
     <mask>*.scss</mask>
     <mask>*.jsp,*.tag</mask>
-    <mask>*.yaml,*.yml</mask>
     <mask>*.js</mask>
     <mask>*.tld</mask>
     <mask>*.java,*.groovy</mask>
     <mask>*.xml</mask>
+    <mask>*.yaml,*.yml</mask>
   </component>
 </application>
