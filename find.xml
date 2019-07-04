@@ -14,11 +14,12 @@
     <mask>*.properties</mask>
     <mask>*.yaml</mask>
     <mask>*.groovy</mask>
-    <mask>*.xml</mask>
-    <mask>*.java,*.groovy</mask>
     <mask>*.scss</mask>
-    <mask>*.jsp,*.tag</mask>
-    <mask>*.yaml,*.yml</mask>
     <mask>*.js</mask>
+    <mask>*.tld</mask>
+    <mask>*.java,*.groovy</mask>
+    <mask>*.xml</mask>
+    <mask>*.yaml,*.yml</mask>
+    <mask>*.jsp,*.tag</mask>
   </component>
 </application>
