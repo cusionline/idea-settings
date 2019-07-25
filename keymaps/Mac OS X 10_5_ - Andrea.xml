@@ -64,6 +64,11 @@
     <keyboard-shortcut first-keystroke="meta f12" />
     <keyboard-shortcut first-keystroke="meta o_with_grave" />
   </action>
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="meta alt b" />
+    <mouse-shortcut keystroke="meta alt button1" />
+    <keyboard-shortcut first-keystroke="meta down" />
+  </action>
   <action id="GotoNextElementUnderCaretUsage">
     <mouse-shortcut keystroke="alt button142" />
     <keyboard-shortcut first-keystroke="alt g" />
