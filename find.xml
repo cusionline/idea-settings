@@ -18,8 +18,8 @@
     <mask>*.xml</mask>
     <mask>*.yaml,*.yml</mask>
     <mask>*.js</mask>
-    <mask>*.java,*.groovy</mask>
     <mask>*.scss</mask>
     <mask>*.jsp,*.tag</mask>
+    <mask>*.java,*.groovy</mask>
   </component>
 </application>
