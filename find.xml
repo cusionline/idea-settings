@@ -3,7 +3,6 @@
     <option name="customScope" value="selexweb" />
     <option name="defaultScopeName" value="selexweb" />
     <option name="SEARCH_SCOPE" value="selexweb" />
-    <option name="FILE_MASK" value="*.js" />
     <mask>*.jsp</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
