@@ -1,9 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java,*.groovy" />
+    <option name="customScope" value="selexweb" />
+    <option name="defaultScopeName" value="selexweb" />
+    <option name="SEARCH_SCOPE" value="selexweb" />
     <mask>*.jsp</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
@@ -18,9 +17,9 @@
     <mask>*.tld</mask>
     <mask>*.xml</mask>
     <mask>*.yaml,*.yml</mask>
-    <mask>*.js</mask>
     <mask>*.scss</mask>
     <mask>*.jsp,*.tag</mask>
     <mask>*.java,*.groovy</mask>
+    <mask>*.js</mask>
   </component>
 </application>
