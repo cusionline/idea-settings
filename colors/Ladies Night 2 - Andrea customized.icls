@@ -4,7 +4,7 @@
     <property name="created">2017-07-14T17:07:34</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.1.4.0.0</property>
-    <property name="modified">2019-08-06T12:35:06</property>
+    <property name="modified">2019-08-09T15:18:25</property>
     <property name="originalScheme">Ladies Night 2 copy</property>
   </metaInfo>
   <console-font>
@@ -19,6 +19,7 @@
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
+    <option name="ANNOTATIONS_COLOR" value="77678" />
     <option name="CARET_COLOR" value="bbbbbb" />
     <option name="CARET_ROW_COLOR" value="383341" />
     <option name="CONSOLE_BACKGROUND_KEY" value="293134" />
@@ -50,6 +51,11 @@
     <option name="SELECTION_BACKGROUND" value="b46043" />
     <option name="SELECTION_FOREGROUND" value="" />
     <option name="TEARLINE_COLOR" value="2f393c" />
+    <option name="VCS_ANNOTATIONS_COLOR_1" value="c1e1c1" />
+    <option name="VCS_ANNOTATIONS_COLOR_2" value="e1e1e1" />
+    <option name="VCS_ANNOTATIONS_COLOR_3" value="bac5e1" />
+    <option name="VCS_ANNOTATIONS_COLOR_4" value="e1dabe" />
+    <option name="VCS_ANNOTATIONS_COLOR_5" value="e1b8b8" />
     <option name="WHITESPACES" value="505050" />
   </colors>
   <attributes>
@@ -305,7 +311,6 @@
     <option name="DEFAULT_KEYWORD">
       <value>
         <option name="FOREGROUND" value="e784a2" />
-        <option name="BACKGROUND" value="21282d" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
