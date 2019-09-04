@@ -1,9 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../bin/custom/selexweb/web/src/it/selex/web/util/MeasurementProtocolHelper.java [selexweb]'" />
-    <option name="defaultScopeName" value="File '.../bin/custom/selexweb/web/src/it/selex/web/util/MeasurementProtocolHelper.java [selexweb]'" />
-    <option name="SEARCH_SCOPE" value="File '.../bin/custom/selexweb/web/src/it/selex/web/util/MeasurementProtocolHelper.java [selexweb]'" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.jsp</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
@@ -11,7 +10,6 @@
     <mask>*.js,!*.config.js</mask>
     <mask>*.html</mask>
     <mask>*.ts</mask>
-    <mask>*.properties</mask>
     <mask>*.yaml</mask>
     <mask>*.groovy</mask>
     <mask>*.tld</mask>
@@ -20,8 +18,9 @@
     <mask>*.scss</mask>
     <mask>*.java,*.groovy</mask>
     <mask>*.js</mask>
-    <mask>*.jsp,*.tag</mask>
     <mask>*.pug</mask>
     <mask>*.java</mask>
+    <mask>*.jsp,*.tag</mask>
+    <mask>*.properties</mask>
   </component>
 </application>
