@@ -1,5 +1,9 @@
 <application>
   <component name="LanguageInjectionConfiguration">
+    <injection language="TSQL" injector-id="java">
+      <display-name>Query.value (org.springframework.data.jpa.repository)</display-name>
+      <place><![CDATA[psiMethod().withName("value").withParameters().definedInClass("org.springframework.data.jpa.repository.Query")]]></place>
+    </injection>
     <injection language="RegExp" injector-id="java">
       <display-name>StringUtils.replaceAll (org.apache.commons.lang3)</display-name>
       <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("replaceAll").withParameters("java.lang.String", "java.lang.String", "java.lang.String").definedInClass("org.apache.commons.lang3.StringUtils"))]]></place>
