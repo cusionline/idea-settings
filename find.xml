@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="flotteeconvenzioni-scope" />
+    <option name="defaultScopeName" value="flotteeconvenzioni-scope" />
+    <option name="SEARCH_SCOPE" value="flotteeconvenzioni-scope" />
     <mask>*.jsp</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
