@@ -3,7 +3,6 @@
     <option name="customScope" value="flotteeconvenzioni-scope" />
     <option name="defaultScopeName" value="flotteeconvenzioni-scope" />
     <option name="SEARCH_SCOPE" value="flotteeconvenzioni-scope" />
-    <option name="FILE_MASK" value="*.java,*.groovy" />
     <mask>*.jsp</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
