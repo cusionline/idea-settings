@@ -1,8 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="flotteeconvenzioni-scope" />
+    <option name="defaultScopeName" value="flotteeconvenzioni-scope" />
+    <option name="SEARCH_SCOPE" value="flotteeconvenzioni-scope" />
+    <option name="FILE_MASK" value="*.java,*.groovy" />
     <mask>*.jsp</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
@@ -20,8 +21,8 @@
     <mask>*.properties</mask>
     <mask>*.vue</mask>
     <mask>*.yaml,*.yml</mask>
-    <mask>*.java,*.groovy</mask>
     <mask>*.jsp,*.tag</mask>
     <mask>*.js</mask>
+    <mask>*.java,*.groovy</mask>
   </component>
 </application>
