@@ -3,6 +3,7 @@
     <option name="customScope" value="flotteeconvenzioni-scope" />
     <option name="defaultScopeName" value="flotteeconvenzioni-scope" />
     <option name="SEARCH_SCOPE" value="flotteeconvenzioni-scope" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*.jsp</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
@@ -15,7 +16,6 @@
     <mask>*.tld</mask>
     <mask>*.xml</mask>
     <mask>*.scss</mask>
-    <mask>*.js</mask>
     <mask>*.pug</mask>
     <mask>*.java</mask>
     <mask>*.properties</mask>
@@ -23,5 +23,6 @@
     <mask>*.yaml,*.yml</mask>
     <mask>*.java,*.groovy</mask>
     <mask>*.jsp,*.tag</mask>
+    <mask>*.js</mask>
   </component>
 </application>
