@@ -2,9 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.scss" />
     <mask>*.jsp</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
@@ -15,7 +14,6 @@
     <mask>*.yaml</mask>
     <mask>*.groovy</mask>
     <mask>*.tld</mask>
-    <mask>*.scss</mask>
     <mask>*.pug</mask>
     <mask>*.vue</mask>
     <mask>*.yaml,*.yml</mask>
@@ -25,5 +23,6 @@
     <mask>*.jsp,*.tag</mask>
     <mask>*.properties</mask>
     <mask>*.xml</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
