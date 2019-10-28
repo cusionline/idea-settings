@@ -18,10 +18,10 @@
     <mask>*.java</mask>
     <mask>*.properties</mask>
     <mask>*.xml</mask>
-    <mask>*.yaml,*.yml</mask>
     <mask>*.css</mask>
     <mask>*.scss</mask>
     <mask>*.java,*.groovy</mask>
     <mask>*.jsp,*.tag</mask>
+    <mask>*.yaml,*.yml</mask>
   </component>
 </application>
