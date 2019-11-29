@@ -4,7 +4,7 @@
     <property name="created">2017-07-14T17:07:34</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.1.4.0.0</property>
-    <property name="modified">2019-11-29T12:14:36</property>
+    <property name="modified">2019-11-29T12:35:17</property>
     <property name="originalScheme">Ladies Night 2 copy</property>
   </metaInfo>
   <console-font>
@@ -22,7 +22,7 @@
     <option name="ANNOTATIONS_COLOR" value="77678" />
     <option name="CARET_COLOR" value="bbbbbb" />
     <option name="CARET_ROW_COLOR" value="383341" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="293134" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="d0e14" />
     <option name="FILESTATUS_ADDED" value="629755" />
     <option name="FILESTATUS_DELETED" value="6c6c6c" />
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="6c6c6c" />
@@ -116,6 +116,7 @@
     <option name="CONSOLE_ERROR_OUTPUT">
       <value>
         <option name="FOREGROUND" value="ec7600" />
+        <option name="BACKGROUND" value="d0e14" />
       </value>
     </option>
     <option name="CONSOLE_MAGENTA_OUTPUT">
@@ -126,7 +127,7 @@
     <option name="CONSOLE_NORMAL_OUTPUT">
       <value>
         <option name="FOREGROUND" value="e0e2e4" />
-        <option name="BACKGROUND" value="293134" />
+        <option name="BACKGROUND" value="d0e14" />
       </value>
     </option>
     <option name="CONSOLE_RED_OUTPUT">
@@ -137,11 +138,13 @@
     <option name="CONSOLE_SYSTEM_OUTPUT">
       <value>
         <option name="FOREGROUND" value="ffcd22" />
+        <option name="BACKGROUND" value="d0e14" />
       </value>
     </option>
     <option name="CONSOLE_USER_INPUT">
       <value>
         <option name="FOREGROUND" value="7d8c93" />
+        <option name="BACKGROUND" value="d0e14" />
       </value>
     </option>
     <option name="CONSTRUCTOR_CALL_ATTRIBUTES">
@@ -553,19 +556,40 @@
         <option name="FOREGROUND" value="8dbec2" />
       </value>
     </option>
+    <option name="LOG_DEBUG_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="cccc" />
+        <option name="BACKGROUND" value="d0e14" />
+      </value>
+    </option>
     <option name="LOG_ERROR_OUTPUT">
       <value>
         <option name="FOREGROUND" value="93c763" />
+        <option name="BACKGROUND" value="d0e14" />
       </value>
     </option>
     <option name="LOG_EXPIRED_ENTRY">
       <value>
         <option name="FOREGROUND" value="7d8c93" />
+        <option name="BACKGROUND" value="d0e14" />
+      </value>
+    </option>
+    <option name="LOG_INFO_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="cd00" />
+        <option name="BACKGROUND" value="d0e14" />
+      </value>
+    </option>
+    <option name="LOG_VERBOSE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ee" />
+        <option name="BACKGROUND" value="d0e14" />
       </value>
     </option>
     <option name="LOG_WARNING_OUTPUT">
       <value>
         <option name="FOREGROUND" value="e0e2e4" />
+        <option name="BACKGROUND" value="d0e14" />
       </value>
     </option>
     <option name="List/map to object conversion" baseAttributes="JAVA_NUMBER" />
