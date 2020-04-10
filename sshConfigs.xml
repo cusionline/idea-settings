@@ -1,0 +1,22 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="pggombe01" id="90a780b1-c26d-4f5b-8070-b50c38591001" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="pggombe01 - public1" nameFormat="CUSTOM" username="mmolaschi" />
+      <sshConfig host="pggombe01" id="9c4dfcaa-8c79-48e7-9467-0c66b377d354" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="pggombe01 - public2" nameFormat="CUSTOM" username="mmolaschi" />
+      <sshConfig host="pggombe02" id="3fe8e6f7-509d-49d3-b073-16b302fad2ae" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="pggombe02 - public1" nameFormat="CUSTOM" username="mmolaschi" />
+      <sshConfig host="pggombe02" id="5792227b-2b81-4567-8a46-27ef59600363" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="pggombe02 - public2" nameFormat="CUSTOM" username="mmolaschi" />
+      <sshConfig host="pggombe01" id="da6687fb-86f1-469a-bb34-d849bf8fd3eb" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="pggombe01 - author-piaggio" nameFormat="CUSTOM" username="mmolaschi" />
+      <sshConfig host="pggombe01" id="36e606d4-8e90-448b-8964-1df6cc353df7" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="pggombe01 - mgnl5-author" nameFormat="CUSTOM" username="mmolaschi" />
+      <sshConfig host="pggombe01" id="bb6572a8-b09e-4b21-acc4-a6184c59ff26" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="pggombe01 - mgnl5-public" nameFormat="CUSTOM" username="mmolaschi" />
+      <sshConfig host="pggombe02" id="f37e37ed-65fc-4016-ab2d-f6a660c0d2f9" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="pggombe02 - mgnl5-public" nameFormat="CUSTOM" username="mmolaschi" />
+      <sshConfig host="52.213.200.82" id="9b87791e-e093-4224-9ec6-4c4addbdb14d" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="insegneselexprodbe" nameFormat="CUSTOM" username="a.cusini" />
+      <sshConfig host="52.213.214.14" id="dff85052-6e58-4b32-9063-0bc682d547a6" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="insegneselexprodfe1" nameFormat="CUSTOM" username="a.cusini" />
+      <sshConfig host="52.31.64.222" id="aa61977a-1a67-4d32-89f6-75a11db89e44" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="insegneselexprodfe2" nameFormat="CUSTOM" username="a.cusini" />
+      <sshConfig host="52.19.101.65" id="aa2eed58-30e9-462e-b292-8a492be69853" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="insegneselexuatbe" nameFormat="CUSTOM" username="a.cusini" />
+      <sshConfig host="52.212.119.11" id="a6eccecf-756d-40d9-b006-d2a461fd50f6" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="insegneselexuatfe" nameFormat="CUSTOM" username="a.cusini" />
+      <sshConfig host="pggombe02" id="5ab2e88f-7e06-4228-8379-d662f3b4c687" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="pggombe02 - mgnl5-qa-author" nameFormat="CUSTOM" username="mmolaschi" />
+      <sshConfig host="pggombe02" id="7c677a71-6237-4d74-bed2-bf6d1d3c05f8" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="pggombe02 - mgnl5-qa-public" nameFormat="CUSTOM" username="mmolaschi" />
+      <sshConfig host="pggombe02" id="8d30c8f4-56ac-498f-9617-e0d484812004" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="pggombe02 - mgnl5-qa-public" nameFormat="CUSTOM" username="mmolaschi" />
+    </configs>
+  </component>
+</application>
