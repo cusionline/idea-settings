@@ -7,7 +7,7 @@
   <action id="CloseAllEditorsButActive" />
   <action id="Git.ResolveConflicts" />
   <action id="MergeSettings" />
-  <action id="ToggleDistractionFreeMode" />
+  <action id="ToggleZenMode" />
   <action id="XDebugger.MuteBreakpoints" />
   <action id="ShowPopupMenu" />
   <action id="WebServicesPlugin.CreateRESTClient" />
@@ -15,4 +15,5 @@
   <action id="CheckForUpdate" />
   <action id="ShowTips" />
   <action id="Annotate" />
+  <action id="ToggleDistractionFreeMode" />
 </list>
