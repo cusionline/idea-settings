@@ -1,8 +1,8 @@
 <application>
   <component name="AbbreviationManager">
     <abbreviations>
-      <action id="Terminal.OpenInTerminal">
-        <abbreviation name="trm" />
+      <action id="ToggleDistractionFreeMode">
+        <abbreviation name="DF" />
       </action>
       <action id="HippieCompletion" />
       <action id="RebuildGradleProject" />
@@ -12,17 +12,17 @@
       <action id="CloseProject">
         <abbreviation name="CP" />
       </action>
-      <action id="ManageRecentProjects">
-        <abbreviation name="MP" />
+      <action id="editRunConfigurations">
+        <abbreviation name="cfg" />
+      </action>
+      <action id="SplitVertically">
+        <abbreviation name="SV" />
       </action>
       <action id="ShowAppliedStylesAction">
         <abbreviation name="SS" />
       </action>
-      <action id="Annotate">
-        <abbreviation name="AN" />
-      </action>
-      <action id="SplitVertically">
-        <abbreviation name="SV" />
+      <action id="CloseAllEditors">
+        <abbreviation name="CA" />
       </action>
       <action id="Vcs.Show.Log">
         <abbreviation name="SL" />
@@ -36,17 +36,20 @@
       <action id="XDebugger.MuteBreakpoints">
         <abbreviation name="MB" />
       </action>
-      <action id="ToggleDistractionFreeMode">
-        <abbreviation name="DF" />
+      <action id="ManageRecentProjects">
+        <abbreviation name="MP" />
       </action>
-      <action id="editRunConfigurations">
-        <abbreviation name="cfg" />
+      <action id="ToggleZenMode">
+        <abbreviation name="ZM" />
+      </action>
+      <action id="Terminal.OpenInTerminal">
+        <abbreviation name="trm" />
       </action>
       <action id="StoreDefaultLayout">
         <abbreviation name="SD" />
       </action>
-      <action id="CodeCleanup">
-        <abbreviation name="CC" />
+      <action id="Annotate">
+        <abbreviation name="AN" />
       </action>
       <action id="ShowPopupMenu">
         <abbreviation name="CM" />
@@ -57,8 +60,8 @@
       <action id="CompileProject">
         <abbreviation name="RP" />
       </action>
-      <action id="CloseAllEditors">
-        <abbreviation name="CA" />
+      <action id="CodeCleanup">
+        <abbreviation name="CC" />
       </action>
       <action id="Vcs.Show.Local.Changes">
         <abbreviation name="SC" />
