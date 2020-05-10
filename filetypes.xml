@@ -1,6 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="woff2" type="Native" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="CrmCommonReferenceService.wsdl" type="PLAIN_TEXT" />
