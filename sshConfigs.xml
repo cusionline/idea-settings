@@ -16,7 +16,7 @@
       <sshConfig host="52.212.119.11" id="a6eccecf-756d-40d9-b006-d2a461fd50f6" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="insegneselexuatfe" nameFormat="CUSTOM" username="a.cusini" />
       <sshConfig host="pggombe02" id="5ab2e88f-7e06-4228-8379-d662f3b4c687" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="pggombe02 - mgnl5-qa-author" nameFormat="CUSTOM" username="mmolaschi" />
       <sshConfig host="pggombe02" id="7c677a71-6237-4d74-bed2-bf6d1d3c05f8" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="pggombe02 - mgnl5-qa-public" nameFormat="CUSTOM" username="mmolaschi" />
-      <sshConfig host="pggombe02" id="db7e79fc-3119-4f43-82c3-33fa03c8f3bd" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="pggombe02 - mgnl5-qa-public" nameFormat="CUSTOM" username="mmolaschi" />
+      <sshConfig host="pggombe02" id="e20e70c0-f747-4e41-a43a-61df55def0b6" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="pggombe02 - mgnl5-qa-public" nameFormat="CUSTOM" username="mmolaschi" />
     </configs>
   </component>
 </application>
