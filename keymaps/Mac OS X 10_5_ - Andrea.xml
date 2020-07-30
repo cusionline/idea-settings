@@ -62,7 +62,6 @@
   </action>
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="meta f12" />
-    <keyboard-shortcut first-keystroke="meta o_with_grave" />
   </action>
   <action id="GotoImplementation">
     <keyboard-shortcut first-keystroke="meta alt b" />
@@ -84,7 +83,6 @@
   <action id="HippieCompletion">
     <keyboard-shortcut first-keystroke="alt back_quote" />
     <keyboard-shortcut first-keystroke="alt less" />
-    <keyboard-shortcut first-keystroke="ctrl o_with_grave" />
   </action>
   <action id="IncrementalSearch">
     <keyboard-shortcut first-keystroke="alt f" />
@@ -135,7 +133,6 @@
   </action>
   <action id="ShowProjectStructureSettings">
     <keyboard-shortcut first-keystroke="meta semicolon" />
-    <keyboard-shortcut first-keystroke="meta u_with_grave" />
   </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
@@ -152,9 +149,7 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
-  <action id="ToggleZenMode">
-    <keyboard-shortcut first-keystroke="ctrl u_with_grave" />
-  </action>
+  <action id="ToggleZenMode" />
   <action id="Vcs.Show.Local.Changes">
     <keyboard-shortcut first-keystroke="f16" second-keystroke="1" />
   </action>
