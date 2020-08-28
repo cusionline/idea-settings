@@ -80,10 +80,12 @@
   <action id="HippieBackwardCompletion">
     <keyboard-shortcut first-keystroke="shift alt back_quote" />
     <keyboard-shortcut first-keystroke="shift alt less" />
+    <keyboard-shortcut first-keystroke="shift ctrl #10000f2" />
   </action>
   <action id="HippieCompletion">
     <keyboard-shortcut first-keystroke="alt back_quote" />
     <keyboard-shortcut first-keystroke="alt less" />
+    <keyboard-shortcut first-keystroke="ctrl #10000f2" />
   </action>
   <action id="IncrementalSearch">
     <keyboard-shortcut first-keystroke="alt f" />
