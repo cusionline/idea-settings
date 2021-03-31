@@ -1,7 +1,9 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <removed_mapping ext="klib" type="ARCHIVE" />
+      <mapping ext="klib" type="ARCHIVE" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="woff2" type="Native" />
       <mapping pattern="CrmCommonReferenceService.wsdl" type="PLAIN_TEXT" />
       <mapping pattern="DDL_ALTER_TABLE_REQUEST_EMAILOPENED.sql" type="PLAIN_TEXT" />
