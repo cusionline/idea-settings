@@ -4,7 +4,7 @@
     <property name="created">2017-07-14T17:07:34</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.1.4.0.0</property>
-    <property name="modified">2021-03-10T14:48:48</property>
+    <property name="modified">2021-04-15T12:59:08</property>
     <property name="originalScheme">Ladies Night 2 copy</property>
   </metaInfo>
   <console-font>
@@ -23,6 +23,7 @@
     <option name="CARET_COLOR" value="bbbbbb" />
     <option name="CARET_ROW_COLOR" value="383341" />
     <option name="CONSOLE_BACKGROUND_KEY" value="d0e14" />
+    <option name="DOCUMENTATION_COLOR" value="323232" />
     <option name="FILESTATUS_ADDED" value="629755" />
     <option name="FILESTATUS_DELETED" value="6c6c6c" />
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="6c6c6c" />
