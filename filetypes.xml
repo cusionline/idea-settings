@@ -5,9 +5,9 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="woff2" type="Native" />
-      <mapping pattern=".keep" type="PLAIN_TEXT" />
-      <mapping pattern="DDL_ALTER_TABLE_REQUEST_EMAILOPENED.sql" type="PLAIN_TEXT" />
       <mapping pattern="CrmCommonReferenceService.wsdl" type="PLAIN_TEXT" />
+      <mapping pattern="DDL_ALTER_TABLE_REQUEST_EMAILOPENED.sql" type="PLAIN_TEXT" />
+      <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping ext="vmoptions" type="PLAIN_TEXT" />
       <mapping ext="woff" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
